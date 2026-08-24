@@ -2,7 +2,7 @@
 
 AI systems builder and operator in Jaipur. I build the systems that let founders step away from the keyboard — automation, applied ML and revenue systems that run at **zero or near-zero marginal cost**. No metered APIs unless there is no free alternative, no infrastructure I cannot run myself.
 
-Nineteen shipped things, written up properly — the problem, what it does, why it is built that way, and what was hard: **[divyansh-site-eight.vercel.app](https://divyansh-site-eight.vercel.app)**
+Twenty shipped things, written up properly — the problem, what it does, why it is built that way, and what was hard: **[divyanshsharma.me](https://www.divyanshsharma.me)**
 
 **Public repos**
 
