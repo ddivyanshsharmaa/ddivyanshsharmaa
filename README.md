@@ -1,8 +1,13 @@
-### Hi, I'm Divyansh 👋
+# Hi, I'm Divyansh Sharma — AI Systems Builder 👋
 
-AI systems builder and operator in Jaipur. I build the systems that let founders step away from the keyboard — automation, applied ML and revenue systems that run at **zero or near-zero marginal cost**. No metered APIs unless there is no free alternative, no infrastructure I cannot run myself.
+AI systems builder and AI automation developer in Jaipur, Rajasthan, India. I build the systems that let founders step away from the keyboard — workflow automation, applied ML and revenue systems that run at **zero or near-zero marginal cost**. No metered APIs unless there is no free alternative, and no infrastructure I cannot run myself. I take on client projects for any business. Nineteen shipped things, written up properly — the problem, what it does, why it is built that way, and what was hard: **[divyanshsharma.me](https://www.divyanshsharma.me)**
 
-Nineteen shipped things, written up properly — the problem, what it does, why it is built that way, and what was hard: **[divyanshsharma.me](https://www.divyanshsharma.me)**
+**What I build for clients**
+
+- **Automations** — End-to-end workflow automation and background pipelines that eliminate repetitive manual tasks.
+- **Custom tools and portals** — Custom business tools, internal portals and ERP systems built around specific business operations.
+- **AI content systems** — Autonomous AI content systems and repurposing pipelines that run reliably without metered API bills.
+- **Websites** — Fast website development, static web applications, and technical SEO architecture built for performance.
 
 **Public repos**
 
@@ -15,5 +20,7 @@ Nineteen shipped things, written up properly — the problem, what it does, why 
 Python · Node.js · Claude headless CLI · Supabase · SQLite · scikit-learn · Express · WordPress/PHP · technical SEO
 
 Most of the rest is private client or product work — a learning-centre ERP running on static HTML and Postgres row-level security, Repurpose Studio, Greenlight, SEO Autopilot, Sage Agent MCP and the others are written up on the site above. I lean on `claude -p` as the AI engine inside my own pipelines rather than building against paid model APIs directly, which is why these things cost nothing per run.
+
+**Work with me** — Taking on client projects for any business. To get in touch by email or discuss a project, visit **[divyanshsharma.me](https://www.divyanshsharma.me)**.
 
 **Elsewhere** — [LinkedIn](https://www.linkedin.com/in/ddivyanshsharmaa/) · [Substack](https://substack.com/@divyanshsharmaa) · [X](https://x.com/divyanshsharmar)
