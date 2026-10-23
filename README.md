@@ -1,6 +1,6 @@
 # Hi, I'm Divyansh Sharma, AI Systems Builder 👋
 
-AI systems builder and AI automation developer in Jaipur, Rajasthan, India. I build the systems that let founders step away from the keyboard: workflow automation, applied ML and revenue systems that run at **zero or near-zero marginal cost**. No metered APIs unless there is no free alternative, and no infrastructure I cannot run myself. I take on client projects for any business. Nineteen shipped things, written up properly: the problem, what it does, why it is built that way, and what was hard: **[divyanshsharma.me](https://www.divyanshsharma.me)**
+AI systems builder and AI automation developer in Jaipur, Rajasthan, India. I build the systems that let founders step away from the keyboard: workflow automation, applied ML and revenue systems that run at **zero or near-zero marginal cost**. No metered APIs unless there is no free alternative, and no infrastructure I cannot run myself. I take on client projects for any business. Nineteen shipped things are written up on **[divyanshsharma.me](https://www.divyanshsharma.me)**: the problem, what it does, why it is built that way, and what was hard.
 
 **What I build for clients**
 
