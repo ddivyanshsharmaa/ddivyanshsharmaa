@@ -4,6 +4,8 @@
 
 AI systems builder and AI automation developer in Jaipur, Rajasthan, India. I build automations, custom tools, portals, AI content systems and websites for businesses, all running at zero or near-zero marginal cost.
 
+🌄 **[Visit my website](https://www.divyanshsharma.me)**
+
 <details>
 <summary>🏕️ the tent</summary>
 
