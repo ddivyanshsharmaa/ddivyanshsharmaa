@@ -2,7 +2,7 @@
 
 # Divyansh Sharma
 
-AI systems builder and AI automation developer in Jaipur, Rajasthan, India. I build automations, custom tools, portals, AI content systems and websites for businesses, all running at zero or near-zero marginal cost.
+I write what I think and build what needs building. Automations, AI that does real work, and websites that do their job. Jaipur, India.
 
 🌄 **[Visit my website](https://www.divyanshsharma.me)**
 
@@ -47,8 +47,6 @@ I write about systems, attention and building at [divyanshsharma.me/blog](https:
 
 <details>
 <summary>📬 the mailbox</summary>
-
-Taking a couple of client projects a month.
 
 Email: [divyanshsharma7117@gmail.com](mailto:divyanshsharma7117@gmail.com)
 
