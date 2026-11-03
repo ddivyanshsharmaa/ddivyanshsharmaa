@@ -29,6 +29,8 @@ I build systems that let founders step away from the keyboard: no metered APIs u
 - 🧭 [fable-toolkit](https://github.com/ddivyanshsharmaa/fable-toolkit): six skills and four agents for Claude Code built around one behaviour: finish the job, then prove it works. Plus multi-engine loops that hand implementation to Codex or Gemini while Claude orchestrates and reviews.
 - 🔊 [audio-splitter](https://github.com/ddivyanshsharmaa/audio-splitter): play the same audio through a wired and a Bluetooth speaker at once, in sync, on Windows. No virtual driver install, no reboot.
 - ⌨️ [hotkey-hq](https://github.com/ddivyanshsharmaa/hotkey-hq): every shortcut competing for a key on your Windows machine, on one keyboard you can press keys against. Answers: who is eating this key?
+- 🔒 [keyboard-lock](https://github.com/ddivyanshsharmaa/keyboard-lock): switch your keyboard off with one shortcut so you can clean it, with a 10-minute auto-unlock safety net.
+- 📈 [typing-speed-overlay](https://github.com/ddivyanshsharmaa/typing-speed-overlay): your live typing speed in a tiny always-on-top box that turns red, yellow, green, blue as you speed up. Windows, macOS, Linux. Never logs your keys.
 </details>
 
 <details>
