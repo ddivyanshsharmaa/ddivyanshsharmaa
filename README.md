@@ -55,5 +55,5 @@ Email: [divyanshsharma7117@gmail.com](mailto:divyanshsharma7117@gmail.com)
 
 Website: [divyanshsharma.me](https://www.divyanshsharma.me)
 
-[LinkedIn](https://www.linkedin.com/in/ddivyanshsharmaa/) · [Substack](https://substack.com/@divyanshsharmaa) · [X](https://x.com/divyanshsharmar)
+[LinkedIn](https://www.linkedin.com/in/ddivyanshsharmaa/) · [Substack](https://divyanshsharmaa.substack.com) · [X](https://x.com/divyanshsharmar)
 </details>
