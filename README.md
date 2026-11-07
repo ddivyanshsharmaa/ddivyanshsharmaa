@@ -2,7 +2,7 @@
 
 # Divyansh Sharma
 
-I write what I think and build what needs building. Automations, AI that does real work, and websites that do their job. Jaipur, India.
+Hi, I'm Divyansh Sharma, an AI automation and web developer in Jaipur, India. I write what I think and build what needs building: automations, AI that does real work, custom business tools, and websites that do their job.
 
 🌄 **[Visit my website](https://www.divyanshsharma.me)**
 
@@ -26,6 +26,7 @@ I build systems that let founders step away from the keyboard: no metered APIs u
 
 ### What have I done?
 
+- 🔀 [clispare](https://github.com/ddivyanshsharmaa/clispare): one place to sign in to all your AI coding CLIs (Claude Code, Codex, Gemini CLI, Grok) with automatic failover when one hits a usage limit. `npm install -g clispare`.
 - 🧭 [fable-toolkit](https://github.com/ddivyanshsharmaa/fable-toolkit): six skills and four agents for Claude Code built around one behaviour: finish the job, then prove it works. Plus multi-engine loops that hand implementation to Codex or Gemini while Claude orchestrates and reviews.
 - 🔊 [audio-splitter](https://github.com/ddivyanshsharmaa/audio-splitter): play the same audio through a wired and a Bluetooth speaker at once, in sync, on Windows. No virtual driver install, no reboot.
 - ⌨️ [hotkey-hq](https://github.com/ddivyanshsharmaa/hotkey-hq): every shortcut competing for a key on your Windows machine, on one keyboard you can press keys against. Answers: who is eating this key?
